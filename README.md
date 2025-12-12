@@ -221,7 +221,7 @@ VITE_APP_NAME="${APP_NAME}"
 
 ```
 
-### BACKEND
+### FRONTEND
 
 
 ```env
