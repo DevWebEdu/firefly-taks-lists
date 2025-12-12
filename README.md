@@ -7,9 +7,9 @@ Aplicacion Web de gestion de Tareas - Todo List. Construida con LARAVEL 12 - VUE
 ## Tabla de Contenidos
 
 * [Requisitos](#requisitos)
-* [Pasos de instalación](#Pasos de instalación)
-* [Cómo ejecutar cada servicio](#Cómo ejecutar cada servicio)
-* [Variables de entorno necesarias](#Variables de entorno necesarias)
+* [Pasos de instalación](#Pasosdeinstalación)
+* [Cómo ejecutar cada servicio](#Cómoejecutarcadaservicio)
+* [Variables de entorno necesarias](#Variablesdeentornonecesarias)
 
 
 ---
